@@ -1,0 +1,16 @@
+﻿  employee.cpp
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.h(6): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint1”的左侧
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.h(7): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint2”的左侧
+  function.cpp
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.h(6): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint1”的左侧
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.h(7): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint2”的左侧
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.cpp(17): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint1”的左侧
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.cpp(23): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint2”的左侧
+  main.cpp
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.h(6): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint1”的左侧
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.h(7): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint2”的左侧
+  print.cpp
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.h(6): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint1”的左侧
+c:\users\87776\desktop\c++各种项目\职工工资信息管理系统\职工工资信息管理系统\职工工资信息管理系统\function.h(7): warning C4091: “typedef ”: 没有声明变量时忽略“listpoint2”的左侧
+  正在生成代码...
+  职工工资信息管理系统.vcxproj -> C:\Users\87776\Desktop\C++各种项目\职工工资信息管理系统\职工工资信息管理系统\x64\Debug\职工工资信息管理系统.exe

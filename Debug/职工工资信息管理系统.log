@@ -1,0 +1,8 @@
+﻿  employee.cpp
+  function.cpp
+c:\users\87776\desktop\8208181404-孔德彬\职工工资信息管理系统\职工工资信息管理系统\function.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\87776\desktop\8208181404-孔德彬\职工工资信息管理系统\职工工资信息管理系统\function.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  print.cpp
+  正在生成代码...
+  职工工资信息管理系统.vcxproj -> C:\Users\87776\Desktop\8208181404-孔德彬\职工工资信息管理系统\Debug\职工工资信息管理系统.exe
